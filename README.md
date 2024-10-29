@@ -10,7 +10,7 @@ In this project, I developed a demand forecasting model for a retail dataset to 
 - **Countries Represented:** 37
 
 ### Key Insights
-![Word Cloud](Word-Cloud.png)
+![Word Cloud](Word_Cloud.png)
 - **Word Cloud Analysis**: Created a word cloud to showcase the most frequent terms in product descriptions, highlighting popular customer interests. 
 
 ![Word Cloud](EDA-plots.jpg)
